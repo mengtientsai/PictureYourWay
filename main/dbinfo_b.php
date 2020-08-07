@@ -7,6 +7,7 @@
  $password ="";
  $dbname= "test";
  
+ 
  //接前端送來的資料
  $picnum=(int)$_POST['pic'];
  $connection = new mysqli($servername, $username, $password, $dbname);
