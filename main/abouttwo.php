@@ -236,6 +236,7 @@ tbody > tr > td {
 </div>
 <div class="w3-row title">
 
+
        <h1 class="w3-center chinese">《研究理念》</h1>
        <h1 class="w3-center">Research Concept</h1>
        
