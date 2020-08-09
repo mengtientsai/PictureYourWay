@@ -1,13 +1,6 @@
 <?php
 // db連線
- error_reporting(E_ALL | E_STRICT);
- ini_set('display_errors', 'On');
- $servername ="localhost";
- $username = "root";
- $password ="";
- $dbname= "test";
- 
- 
+ require_once("sql_code.php");
  //接前端送來的資料
  $picnum=(int)$_POST['pic'];
  $connection = new mysqli($servername, $username, $password, $dbname);

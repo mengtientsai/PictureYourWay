@@ -1,11 +1,7 @@
 <?php
 // db連線
- error_reporting(E_ALL | E_STRICT);
- ini_set('display_errors', 'On');
- $servername ="localhost";
- $username = "root";
- $password ="";
- $dbname= "test";
+
+ require_once("sql_code.php");
  $connection = new mysqli($servername, $username, $password, $dbname);
  // Check connection
  if ($connection->connect_error) {
