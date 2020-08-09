@@ -254,7 +254,7 @@ $(function(){
 
 <div class="container">
   <div >
- <img src="/src/15360321929564.png" width="55%" style="display:block; margin:auto;"></img>
+ <img src="/src/logo.png" width="55%" style="display:block; margin:auto;"></img>
     <p style="text-align: center" ><a href="newpicturepersonal_b.php" class="button">Picture Your Way</a></p>
  <p style="text-align: center;color:white" ></p>
     
