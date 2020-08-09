@@ -50,7 +50,7 @@ h2 {
   <div class="w3-bar padding w3-card" style="letter-spacing:4px;background-color:DimGray;">
     <!-- Right-sided navbar links. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
-    <a href="index.php" class="w3-bar-item w3-button">Homepage</a>
+    <a href="index_b.php" class="w3-bar-item w3-button">Homepage</a>
     </div>
   </div>
 </div>

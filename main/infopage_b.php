@@ -195,7 +195,7 @@ $(document).ready(function(){
 <!-- Navbar (sit on top) -->
 <div class="w3-bottom" style="z-index:999">
   <div class="w3-bar w3-black w3-padding w3-card" style="letter-spacing:4px;color: #f1f1f1;font-family:Microsoft JhengHei, Verdana, Arial, Helvetica, sans-serif;">
-    <a href="index.php" class="w3-bar-item w3-button ">回首頁</a>
+    <a href="index_b.php" class="w3-bar-item w3-button ">回首頁</a>
     <!-- Right-sided navbar links. Hide them on small screens -->
     <div class="w3-right w3-hide-small ">
      <a href="finalpage_b.php" class="w3-bar-item w3-button ">上一頁</a>
