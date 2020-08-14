@@ -7,8 +7,10 @@
 * 運用演算法: Latent Dirichlet Allocation (LDA)、K-Means Clustering、Elo Rating System。
 * 實驗設計: Spearman相關、F-Measure。
 <center>
+
 ![image](https://github.com/mengtientsai/PictureYourWay/blob/master/readme_pic/process.png)
-<center>
+
+</center>
 
 # Feature
 * 直觀呈現: 不須閱讀大量文字，藉由圖片，肉眼便可直接分辨景點類型進行選擇。
