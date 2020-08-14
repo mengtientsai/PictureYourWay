@@ -6,11 +6,7 @@
 * 資料來源: 政府開放資料平台「景點-觀光資訊資料庫」所提供之3987筆台灣景點配合相對應的Instagram圖片。
 * 運用演算法: Latent Dirichlet Allocation (LDA)、K-Means Clustering、Elo Rating System。
 * 實驗設計: Spearman相關、F-Measure。
-<center>
-
-![image](https://github.com/mengtientsai/PictureYourWay/blob/master/readme_pic/process.png)
-
-</center>
+<div align=center><img width="150" height="150" src="https://github.com/mengtientsai/PictureYourWay/blob/master/readme_pic/process.png"/></div>
 
 # Feature
 * 直觀呈現: 不須閱讀大量文字，藉由圖片，肉眼便可直接分辨景點類型進行選擇。
