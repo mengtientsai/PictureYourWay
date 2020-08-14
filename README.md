@@ -1,6 +1,7 @@
 # About PictureYourWay
-## 圖窮景獻 Picture Your Way
-### -Scatter/Gather結合LDA與K-Means建構圖片景點推薦系統
+#
+**圖窮景獻 Picture Your Way
+-Scatter/Gather結合LDA與K-Means建構圖片景點推薦系統**
 
 圖窮景獻 Picture Your Way是以圖片呈現的景點推薦系統。使用者不需輸入個人資訊，僅須點選圖片，便能快速獲得推薦的理想景點。
 * 資料來源: 政府開放資料平台「景點-觀光資訊資料庫」所提供之3987筆台灣景點配合相對應的Instagram圖片。
