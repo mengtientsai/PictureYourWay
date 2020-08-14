@@ -1,5 +1,4 @@
 # About PictureYourWay
-#
 **圖窮景獻 Picture Your Way
 -Scatter/Gather結合LDA與K-Means建構圖片景點推薦系統**
 
