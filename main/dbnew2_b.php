@@ -58,6 +58,21 @@ for($i=0;$i<$selectlength;$i++){
         }
     }
 }
+//停止條件:若$size小於等於9
+if($size<=9){
+    $viewresult=1;
+        $result['viewresult'] = $viewresult ;
+        $resultIndex = 0;
+        usort($distrecord, function($a, $b) {
+            return $b[1] <=> $a[1];
+        });
+        foreach($distrecord as $row){
+            $result['pic'][$resultIndex] = $row[0] ;
+            $resultIndex =$resultIndex + 1 ;
+        }
+        echo json_encode($result);
+        exit;
+}
 // 設定根據使用者選幾個群分別在各群隨機取數個質心，並將質心編號放入$rnarray  
 if($selectlength==1){
     $rnarray=UniqueRandomNumbersWithinRange(0,$size,9);
