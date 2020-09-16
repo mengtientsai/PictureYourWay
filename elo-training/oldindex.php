@@ -1,4 +1,5 @@
 <?php
+
 //接前端送來的資料(按了哪個按鈕、第一張和第二張圖的編號)
 $button = (int)$_POST['button'];
 $prep1 = (int)$_POST['prep1'] ;
