@@ -1,5 +1,5 @@
 # 圖窮景獻 Picture Your Way
-#### Building a picture based attraction recommendation system by combing LDA and K-Means in the structure of Scatter/Gather
+#### Building a picture based attraction recommendation system by combining LDA and K-Means in the structure of Scatter/Gather
 #### Scatter/Gather結合LDA與K-Means建構圖片景點推薦系統
 [Webpage](http://35.201.182.2/main/index_b.php) | [3-minute demo/introduction](https://www.youtube.com/watch?v=Hjomt424dHA&feature=youtu.be)
 ### Abstract
